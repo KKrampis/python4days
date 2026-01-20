@@ -1,5 +1,12 @@
 # Python 4-Day Coding Test Preparation
 
+## 🚀 Quick Start
+
+**New to this repository?** Start here:
+- **Using Zed Editor?** → Read [ZED_SETUP.md](ZED_SETUP.md)
+- **First time running tests?** → Read [EXAMPLE_WORKFLOW.md](EXAMPLE_WORKFLOW.md)
+- **Need help with pytest?** → Read [TESTING_GUIDE.md](TESTING_GUIDE.md)
+
 ## Overview
 
 This repository is a comprehensive Python programming practice workspace created by **Claude Code** to help developers prepare intensively for coding interviews and technical assessments. The entire codebase was generated from the comprehensive guide `python_coding_prep_days_1-4_comprehensive_guide.md`, which was also created by Claude.
